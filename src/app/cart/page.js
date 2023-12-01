@@ -18,7 +18,7 @@ function CartItem() {
   return (
     <div className="cart-item">
       {hi}
-      <p>상품명{age}</p>
+      <p>{age}</p>
       <p>$40</p>
       <p>1개</p>
     </div>

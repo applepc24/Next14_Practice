@@ -1,3 +1,3 @@
-let age = 20;
+const age = 20;
 
-export default age
+export default age;
