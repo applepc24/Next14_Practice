@@ -40,10 +40,23 @@ body {
   text-align: center;
 }
 
+.cart-item {
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  border-bottom: 1px solid grey;
+  line-height: 0px;
+} 
+
 .payment {
   margin: 0 auto;
   color: red;
   background: white;
   width: 200px;
   text-align: center;
+}
+
+.food-img {
+  width: 100%;
+  height: auto;
 }
